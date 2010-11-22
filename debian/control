@@ -1,0 +1,13 @@
+Source: nodejs-ffi
+Section: misc
+Priority: extra
+Uploaders: Wade Simmons <wade@simplegeo.com>
+Maintainer: SimpleGeo Nerds <nerds@simplegeo.com>
+build-Depends: cdbs, debhelper (>= 7), binutils, nodejs-dev (>= 0.2.4)
+Standards-Version: 3.9.1
+
+Package: nodejs-ffi
+Depends: nodejs (>= 0.2.4), ${shlibs:Depends}, ${misc:Depends}
+Architecture: any
+Description: node-ffi
+ http://github.com/rbranson/node-ffi

@@ -1,0 +1,3 @@
+build/default/ffi_bindings.node usr/lib/nodejs/node-ffi
+index.js usr/lib/nodejs/node-ffi
+lib usr/lib/nodejs/node-ffi

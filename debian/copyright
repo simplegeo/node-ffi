@@ -1,0 +1,9 @@
+This package was debianized by Wade Simmons <wade@simplegeo.com>
+
+The upstream repo is:
+    http://github.com/rbranson/node-ffi
+    MIT License
+
+The Debian packaging is
+    Copyright 2010, SimpleGeo, Inc.
+    MIT License
