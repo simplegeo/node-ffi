@@ -13,8 +13,8 @@
 #else
 #include <ffi.h>
 #endif
-#include <node/eio.h>
-#include <node/node_events.h>
+#include <eio.h>
+#include <node_events.h>
 #include <node_object_wrap.h>
 #include <node.h>
 #include <pthread.h>
