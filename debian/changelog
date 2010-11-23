@@ -1,3 +1,9 @@
+nodejs-ffi (0.2.0-0sg1) lucid; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 23 Nov 2010 17:42:56 +0000
+
 nodejs-ffi (0.2.0-0sg0) unstable; urgency=low
 
   * Debianized
