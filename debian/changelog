@@ -1,3 +1,12 @@
+nodejs-ffi (0.2.0-0sg4) lucid; urgency=low
+
+  [ Wade Simmons ]
+  * correctly set the entry point
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 18 Feb 2011 01:04:35 +0000
+
 nodejs-ffi (0.2.0-0sg3) lucid; urgency=low
 
   [ Wade Simmons ]
