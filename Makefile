@@ -1,6 +1,6 @@
 all:
-	nodejs-waf configure build
+	node-waf configure build
 tests:
-	nodejs ./test/test.js
+	node ./test/test.js
 clean:
 	rm -rf ./build ffi_bindings.node
