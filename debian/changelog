@@ -1,3 +1,15 @@
+nodejs-ffi (0.2.0-0sg6) lucid; urgency=low
+
+  [ Wade Simmons ]
+  * fix a few typos that break with shared libev These typos worked fine
+    when EV_MULTIPLICITY=0 (because they compile to no-ops), but not
+    when EV_MULTIPLICITY=1 (such as when using a shared libev)
+  * new debian package uses standard binary names
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Mon, 25 Apr 2011 00:54:06 +0000
+
 nodejs-ffi (0.2.0-0sg5) lucid; urgency=low
 
   * UNRELEASED
